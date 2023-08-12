@@ -28,7 +28,7 @@ I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervi
 Research Experience
 ------
 - **Contrastive Urban Region Profiling**             7/2023-Present<br>
-Drawing inspiration from contrastive learning principles, this research endeavors to enhance the efficacy of urban governance initiatives by seamlessly integrating diverse multimodal data sources. The primary objective is to **maximize the extraction of comprehensive urban profiling insights** from satellite imagery and remote sensing maps, supervised by **Prof. Liang**.
+Drawing inspiration from contrastive learning principles, this research endeavors to **enhance the efficacy of urban governance initiatives** by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by **Prof. Liang**.
 - **Parent-Child Dialogue Language Model**           7/2023-Present<br>
 Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by **Prof. Shao**.
 - **Multi-Modal Fine-Grained Action Recognition**    6/2023-Present<br>
