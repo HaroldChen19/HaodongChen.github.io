@@ -8,27 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern at [CityMind Lab](https://citymind.top/) in [HKUST(GZ)](https://www.hkust-gz.edu.cn/). 
+I'm a third-year undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern at [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
 
-Actually, as an EE majoring student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
+Actually, as an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
 
-I am very fortunate to be advised by [Prof.Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof.Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
+I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
+
 
 
 Work Experience
 ======
-- Research Intern in CityMind Lab, HKUST(GZ)<br>
-I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Yuxuan Liang primarily conducting research related to Multi-Modal and Computer Vision.
+- **Research Intern** in CityMind Lab, HKUST(GZ)<br>
+I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 
-Getting started
+Research Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Contrastive Urban Region Profiling**             7/2023-Present<br>
+Drawing inspiration from contrastive learning principles, this research endeavors to enhance the efficacy of urban governance initiatives by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by Prof. Liang.
+- **Parent-Child Dialogue Language Model**           7/2023-Present<br>
+Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to establish an advanced and harmonious framework capable of reconfiguring the familial landscape, supervised by Prof. Shao.
+- **Multi-Modal Fine-Grained Action Recognition**    6/2023-Present<br>
+Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by Prof. Shao.
+
 
 Site-wide configuration
 ------
