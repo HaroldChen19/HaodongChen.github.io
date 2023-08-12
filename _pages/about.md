@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third-year undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern at [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
 
-Actually, as an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
+As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
 
 I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
 
@@ -18,7 +18,7 @@ I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.co
 
 
 Work Experience
-======
+------
 - **Research Intern** in CityMind Lab, HKUST(GZ)<br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
@@ -26,12 +26,12 @@ I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervi
 
 
 Research Experience
-======
-- **Contrastive Urban Region Profiling**             <p align="right">7/2023-Present</p><br>
+------
+- **Contrastive Urban Region Profiling**             7/2023-Present<br>
 Drawing inspiration from contrastive learning principles, this research endeavors to enhance the efficacy of urban governance initiatives by seamlessly integrating diverse multimodal data sources. The primary objective is to **maximize the extraction of comprehensive urban profiling insights** from satellite imagery and remote sensing maps, supervised by **Prof. Liang**.
-- **Parent-Child Dialogue Language Model**           <p align="right">7/2023-Present</p><br>
+- **Parent-Child Dialogue Language Model**           7/2023-Present<br>
 Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by **Prof. Shao**.
-- **Multi-Modal Fine-Grained Action Recognition**    <p align="right">6/2023-Present</p><br>
+- **Multi-Modal Fine-Grained Action Recognition**    6/2023-Present<br>
 Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by **Prof. Shao**.
 
 
