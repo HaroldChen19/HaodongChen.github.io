@@ -14,12 +14,11 @@ Actually, as an EE majoring student, I have more than a passing interest in arti
 
 I am very fortunate to be advised by [Prof.Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof.Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
 
-[Email](mailto:chd@mail.nwpu.edu.cn)
 
 Work Experience
 ======
-- Research Intern in CityMind Lab, HKUST(GZ)
-  I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Yuxuan Liang primarily conducting research related to Multi-Modal and Computer Vision.
+- Research Intern in CityMind Lab, HKUST(GZ)<br>
+I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Yuxuan Liang primarily conducting research related to Multi-Modal and Computer Vision.
 
 
 Getting started
