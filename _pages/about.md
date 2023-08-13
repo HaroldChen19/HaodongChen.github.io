@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern at [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
+I'm a year-3 undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern of [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
 
 As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
 
@@ -37,8 +37,8 @@ Central to our pursuit is the conception and realization of an elevated multi-mo
 
 Extra-curricular Experience
 ------
-- Exchange visit to The University of Melbourne in 2023, thanks to NPU
-- United Nations 2023 IOCDP Practical Training Outstanding Trainee in Macau, China, thanks to UN
-- United Nations Messenger for the Sustainable Development Goals, thanks to UN
+- Exchange visit to The University of Melbourne in 2023. Thanks to NPU.
+- United Nations 2023 IOCDP Practical Training Outstanding Trainee in Macau, China. Thanks to [UN](https://www.un.org/en/).
+- United Nations Messenger for the Sustainable Development Goals. Thanks to UN.
 
 
