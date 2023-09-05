@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a year-3 undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern of [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
 
-As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Large Language Model(LLM), and Spatio-Temporal Data Mining**.
+As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Multi-Modal, and Large Language Model(LLM)**.
 
 I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
 
