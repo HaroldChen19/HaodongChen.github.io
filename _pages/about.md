@@ -12,14 +12,14 @@ I'm a year-3 undergraduate student from [School of Automation](https://zdhxy.nwp
 
 As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Multi-Modal, and Large Language Model(LLM)**.
 
-I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SS Lab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
+I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SSLab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
 
 
 
 
 Work Experience
 ------
-- **Research Intern** in CityMind Lab, HKUST(GZ)<br>
+- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-Present<br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 
