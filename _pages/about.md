@@ -14,7 +14,7 @@ As an EE major student, I have more than a passing interest in artificial intell
 
 I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SSLab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
 
-I will be applying for my 25FALL PhD, so wish me luck~!
+I will be applying for my 25FALL PhD, so wish me good luck~
 
 
 
