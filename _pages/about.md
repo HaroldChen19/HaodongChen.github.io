@@ -19,9 +19,9 @@ I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.co
 
 Work Experience
 ------
-- **Research Intern** in SSLab, NPU <p align="right">7/2023-Present</p>
+- **Research Intern** in SSLab, NPU 7/2023-Present<br>
 I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.
-- **Research Intern** in CityMind Lab, HKUST(GZ) <p align="right">4/2023-Present</p><br>
+- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-Present<br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 
@@ -29,12 +29,12 @@ I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervi
 
 Research Experience
 ------
-- **Fine-Grained Action Recognition**    <div align="right">9/2023-Present</div> <br>
+- **Fine-Grained Action Recognition**    9/2023-Present<br>
 Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by **Prof. Shao**.
-- **Contrastive Urban Region Profiling**             <div align="right">7/2023-10/2023</div><br>
+- **Contrastive Urban Region Profiling**             7/2023-10/2023<br>
 Our work has been sent to the [WWW2024](https://www2024.thewebconf.org/) conference for review!<br>
 Drawing inspiration from contrastive learning principles, this research endeavors to **enhance the efficacy of urban governance initiatives** by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by **Prof. Liang**.
-- **Parent-Child Dialogue Language Model**           <div align="right">7/2023-8/2023</div><br>
+- **Parent-Child Dialogue Language Model**           7/2023-8/2023<br>
 Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by **Prof. Shao**.
 
 
