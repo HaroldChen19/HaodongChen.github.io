@@ -21,7 +21,7 @@ Work Experience
 ------
 - **Research Intern** in SSLab, NPU <p align="right">7/2023-Present</p>
 I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.
-- **Research Intern** in CityMind Lab, HKUST(GZ) <div align="right">4/2023-Present</div><br>
+- **Research Intern** in CityMind Lab, HKUST(GZ) <p align="right">4/2023-Present</p><br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 
