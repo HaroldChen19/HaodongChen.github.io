@@ -29,7 +29,7 @@ I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervi
 
 Research Experience
 ------
-- **Fine-Grained Action Recognition**    <div align="right">9/2023-Present<br></div>
+- **Fine-Grained Action Recognition**    <div align="right">9/2023-Present<br></div> 
 Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by **Prof. Shao**.
 - **Parent-Child Dialogue Language Model**           7/2023-Present<br>
 Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by **Prof. Shao**.
