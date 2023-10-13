@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a year-3 undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). And I'm also a research intern of [CityMind Lab](https://citymind.top/) in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
+I'm a year-3 undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). 
 
-As an EE major student, I have more than a passing interest in artificial intelligence. So my research interests include **Computer Vision, Multi-Modal, and Large Language Model(LLM)**.
+As an EE major student, I have more than a passing interest in artificial intelligence. My research interests include **Computer Vision, Multi-Modal, and Large Language Model**.
 
-I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SSLab from NPU, and [Prof. Yuxuan Liang](http://yuxuanliang.com/) of CityMind Lab from HKUST(GZ).
+I am very fortunate to be advised by [Prof. Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ&hl=en) of SSLab from NPU. And I was advised by [Prof. Yuxuan Liang](https://scholar.google.com/citations?user=n9cODgcAAAAJ) of [CityMind Lab](https://citymind.top/) from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 
 I will be applying for my 25FALL PhD, so wish me good luck~
 
@@ -23,7 +23,7 @@ Work Experience
 ------
 - **Research Intern** in SSLab, NPU 7/2023-Present<br>
 I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.
-- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-Present<br>
+- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-10/2023<br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 
