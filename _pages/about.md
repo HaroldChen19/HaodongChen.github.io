@@ -28,7 +28,7 @@ I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervi
 
 Publication
 ------
-- **When Urban Region Profiling Meets Large Language Models** [Arxiv](https://arxiv.org/pdf/2310.18340.pdf)
+- **When Urban Region Profiling Meets Large Language Models** [Arxiv](https://arxiv.org/pdf/2310.18340.pdf)<br>
 Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, **Haodong Chen**, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
 
 
