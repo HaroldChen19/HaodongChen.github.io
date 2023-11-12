@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haodong Chen"
   avatar           : "homepage.png"
-  bio              : "04s | From EE to AI"
+  bio              : "04s | From EE to CV"
   location         : "Shannxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=BGUdPBAAAAAJ"
   email            : "chd@mail.nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
