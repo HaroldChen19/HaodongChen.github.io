@@ -22,24 +22,24 @@ I will be applying for my 25FALL PhD, so wish me good luck~
 Work Experience
 ------
 - **Research Intern** in DianLab, NPU 7/2023-Present<br>
-I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.<font size=2>
+I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.<font size=1.5>
 - **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-10/2023<br>
-I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.<font size=2>
+I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.<font size=1.5>
 
 Publication
 ------
 - **When Urban Region Profiling Meets Large Language Models** [[Arxiv2023](https://arxiv.org/pdf/2310.18340.pdf)]<br>
-Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, **Haodong Chen**, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<font size=2>
+Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, **Haodong Chen**, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<font size=1.5>
 
 
 Research Experience
 ------
 - **Fine-Grained Action Recognition**    9/2023-Present<br>
-Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by Prof. Shao.<font size=2>
+Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by Prof. Shao.<font size=1.5>
 - **Contrastive Urban Region Profiling**             7/2023-10/2023<br>
-Drawing inspiration from contrastive learning principles, this research endeavors to **enhance the efficacy of urban governance initiatives** by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by Prof. Liang.<font size=2>
+Drawing inspiration from contrastive learning principles, this research endeavors to **enhance the efficacy of urban governance initiatives** by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by Prof. Liang.<font size=1.5>
 - **Parent-Child Dialogue Language Model**           7/2023-8/2023<br>
-Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by Prof. Shao.<font size=2>
+Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by Prof. Shao.<font size=1.5>
 
 
 Extra-curricular Experience
