@@ -44,6 +44,7 @@ Grounded in the inherent foundational paradigm shift characteristic of LLM, this
 
 Extra-curricular Experience
 ------
+- Academic Advancement Honors 2023. Thanks to NPU!
 - Exchange visit to The University of Melbourne in 2023. Thanks to NPU!
 - United Nations 2023 IOCDP Practical Training Outstanding Trainee in Macau, China. Thanks to [UN](https://www.un.org/en/)!
 - United Nations Messenger for the Sustainable Development Goals. Thanks to UN!
