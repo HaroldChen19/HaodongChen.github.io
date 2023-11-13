@@ -22,8 +22,8 @@ I will be applying for my 25FALL PhD, so wish me good luck~
 Work Experience
 ------
 - **Research Intern** in DianLab, NPU 7/2023-Present<br>
-I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.</font>
-- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-10/2023
+I began my internship in 7/2023. Supervised by Prof.Shao primarily conducting research related to **Computer Vision** and **LLM**.
+- **Research Intern** in CityMind Lab, HKUST(GZ) 4/2023-10/2023<br>
 I began my internship remotely in 4/2023 and on-site from 7/2023-8/2023. Supervised by Prof.Liang primarily conducting research related to **Multi-Modal** and **Computer Vision**.
 
 Publication
@@ -44,7 +44,7 @@ Grounded in the inherent foundational paradigm shift characteristic of LLM, this
 
 Extra-curricular Experience
 ------
-- Academic Advancement Honors 2023. Thanks to NPU!
+- Academic Advancement Individual Honor 2023. Thanks to NPU!
 - Exchange visit to The University of Melbourne in 2023. Thanks to NPU!
 - United Nations 2023 IOCDP Practical Training Outstanding Trainee in Macau, China. Thanks to [UN](https://www.un.org/en/)!
 - United Nations Messenger for the Sustainable Development Goals. Thanks to UN!
