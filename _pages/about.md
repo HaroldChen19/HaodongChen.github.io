@@ -46,7 +46,7 @@ Extra-curricular Experience
 ------
 - Academic Advancement Individual Honor 2023. Thanks to NPU!
 - Exchange visit to The University of Melbourne in 2023. Thanks to NPU!
-- United Nations 2023 IOCDP Practical Training Outstanding Trainee in Macau, China. Thanks to [UN](https://www.un.org/en/)!
+- United Nations 2023 IOCDP Outstanding Trainee in Macau, China. Thanks to [UN](https://www.un.org/en/)!
 - United Nations Messenger for the Sustainable Development Goals. Thanks to UN!
 
 
