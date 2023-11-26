@@ -35,12 +35,16 @@ Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, **Haodong Chen**, Qingsong Wen, Roge
 Research Experience
 ------
 - **Fine-Grained Action Recognition**    9/2023-11/2023<br>
-Our work has been submitted for review to CVPR2024!<br>
-Central to our pursuit is the conception and realization of an elevated multi-modal fine-grained action recognition framework, characterized by a uniform video format serving as the network's input substrate. This research endeavors to **culminate in the crystallization of a suite of meticulous fine-grained action recognition protocols**, poised to propel the advancement of domains such as sports commentary and surveillance parsing, supervised by Prof. Shao.
+One of our work has been submitted for review to CVPR2024!<br>
+  -The first semi‑supervised fine‑grained action recognition framework based on transformer;<br>
+  -Designed multi‑granular sampling, temporal perturbations by reversing, multi‑scale temporal aggregation for feature fusion, as well as coefficient adaption for stabilizing the learning process.<br>
 - **Contrastive Urban Region Profiling**             7/2023-10/2023<br>
-Drawing inspiration from contrastive learning principles, this research endeavors to **enhance the efficacy of urban governance initiatives** by seamlessly integrating diverse multimodal data sources. The primary objective is to maximize the extraction of comprehensive urban profiling insights from satellite imagery and remote sensing maps, supervised by Prof. Liang.
+  -The first‑ever framework that integrates the knowledge of text modality into urban region profiling;<br>
+  -Blending text knowledge into visual representations through deep modality interaction, utilizing contrastive and language modeling losses;<br>
+  -Developed a novel web‑based application enabled by the proposed model to offer insights about urban planning.<br>
 - **Parent-Child Dialogue Language Model**           7/2023-8/2023<br>
-Grounded in the inherent foundational paradigm shift characteristic of LLM, this research is predicated upon a novel paradigm of human-computer interaction. Its ultimate objective revolves around the nuanced cultivation of familial harmony to **establish an advanced and harmonious framework capable of reconfiguring the familial landscape**, supervised by Prof. Shao.
+  -Leveraging the paradigm shift of Large Language Models for a new form of human‑computer interaction;<br>
+  -Aiming to enhance familial harmony by establishing an advanced framework for reshaping the family landscape.<br>
 
 
 Extra-curricular Experience
