@@ -35,14 +35,15 @@ Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, **Haodong Chen**, Qingsong Wen, Roge
 Research Experience
 ------
 - **Fine-Grained Action Recognition**    9/2023-11/2023<br>
-One of our work has been submitted for review to CVPR2024!<br>
+Our work has been submitted for review to CVPR2024!<br>
   -The first semi‑supervised fine‑grained action recognition framework based on transformer;<br>
-  -Designed multi‑granular sampling, temporal perturbations by reversing, multi‑scale temporal aggregation for feature fusion, as well as coefficient adaption for stabilizing the learning process.<br>
+  -Proposed multi-granularity random sampling with a simple but effective temporal data augmentation method to better learn inter-frame fine-grained action information.<br>
+  -Designed a threshold adaptive approach to effectively mitigate the problem of uneven confidence in video data and time consumption during debugging.<br>
 - **Contrastive Urban Region Profiling**             7/2023-10/2023<br>
   -The first‑ever framework that integrates the knowledge of text modality into urban region profiling;<br>
   -Blending text knowledge into visual representations through deep modality interaction, utilizing contrastive and language modeling losses;<br>
   -Developed a novel web‑based application enabled by the proposed model to offer insights about urban planning.<br>
-- **Parent-Child Dialogue Language Model**           7/2023-8/2023<br>
+- **Parent-Child Dialogue Language Model**           7/2023-9/2023<br>
   -Leveraging the paradigm shift of Large Language Models for a new form of human‑computer interaction;<br>
   -Aiming to enhance familial harmony by establishing an advanced framework for reshaping the family landscape.<br>
 
