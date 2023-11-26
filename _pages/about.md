@@ -37,7 +37,7 @@ Research Experience
 - **Fine-Grained Action Recognition**    9/2023-11/2023<br>
 Our work has been submitted for review to CVPR2024!<br>
   -The first semi‑supervised fine‑grained action recognition framework based on transformer;<br>
-  -Proposed multi-granularity random sampling with a simple but effective temporal data augmentation method to better learn inter-frame fine-grained action information.<br>
+  -Proposed multi-granularity random sampling with a simple but effective temporal data augmentation method to better learn inter-frame fine-grained action information;<br>
   -Designed a threshold adaptive approach to effectively mitigate the problem of uneven confidence in video data and time consumption during debugging.<br>
 - **Contrastive Urban Region Profiling**             7/2023-10/2023<br>
   -The first‑ever framework that integrates the knowledge of text modality into urban region profiling;<br>
